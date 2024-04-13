@@ -28,7 +28,6 @@
 - 🐦 @erikh22l18
 - 👔 [LinkedIn](https://www.linkedin.com/in/erik-fisher-cueva-huari-057123164/)
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
 <!---
 erikh22l18/erikh22l18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
