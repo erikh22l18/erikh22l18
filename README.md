@@ -26,7 +26,7 @@
 
 - 📧 erikh22l18@e22l18.onmicrosoft.com
 - 🐦 @erikh22l18
-- 👔 [LinkedIn](https://www.linkedin.com/in/erik-fisher-cueva-huari-057123164/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/erik-fisher-cueva-huari/)
 
 
 <!---
