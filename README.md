@@ -1,35 +1,47 @@
-# ¡Hola! 👋
+# 👋 Hola, soy Erik
 
-¡Bienvenido a mi perfil de GitHub! Soy Erik, un apasionado programador.
+Soy desarrollador que disfruta construir soluciones **full-stack**, automatizaciones y herramientas que faciliten el trabajo diario (especialmente en los ámbitos de **seguridad**, **DevOps** y **IA**).
 
-## Acerca de mí
+---
 
-- 🌐 Explorando el mundo de la IA.
-<!--- - 💻 Actualmente trabajando en [proyectos actuales]. --->
-- 📚 Aprendiendo DEVOPS.
+## 🚀 Proyectos recientes y destacados
 
-<!---
-## Mis Proyectos Destacados
+Estos son algunos repositorios activos y que mejor reflejan mi forma de trabajar:
 
-- 🚀 [Nombre del Proyecto 1]: [Breve descripción].
-- 🌟 [Nombre del Proyecto 2]: [Breve descripción].](url)
---->
+- **[WhatsApp Music Bot](https://github.com/erikh22l18/WhatsApp_music)** – Bot de WhatsApp que busca canciones en YouTube y permite descargarlas (MP3) usando Twilio / Webhooks y procesamiento asíncrono.
+- **[Vulnerabilities Management](https://github.com/erikh22l18/vulnerabilities-management)** – Plataforma Laravel para gestionar vulnerabilidades con RBAC, reportes PDF y importación masiva (Excel).
+- **[Things To Do (Azure)](https://github.com/erikh22l18/things-to-do)** – Ejemplo completo de aplicación Laravel + MySQL preparada para desplegarse en Azure App Service con CI/CD.
+- **[Portfolio Personal](https://github.com/erikh22l18/erikh22l18.github.io)** – Mi sitio personal (static site) donde documento habilidades, proyectos y contacto.
 
-## Habilidades
+> 📌 Si quieres ver más, revisa mis repos con etiquetas como **Laravel**, **CI/CD**, **Python bots** y **Docker**.
 
-- 💻 Node.js
-- 🌐 Laravel
+---
 
-## Conéctate conmigo
+## 🧰 Tecnologías y herramientas que uso
 
-¡Estoy abierto a colaboraciones y nuevas conexiones! No dudes en contactarme:
+- **Backend:** PHP (Laravel), Node.js, Python
+- **Frontend:** Vue.js, React, HTML/CSS
+- **Infra / DevOps:** Docker, GitHub Actions, Azure, CI/CD, Terraform (básico)
+- **Datos / IA:** Python, OpenAI, machine learning básico
 
-- 📧 erikh22l18@e22l18.onmicrosoft.com
-- 🐦 @erikh22l18
-- 👔 [LinkedIn](https://www.linkedin.com/in/erik-fisher-cueva-huari/)
+---
 
+## 📌 Actualmente aprendiendo
 
-<!---
-erikh22l18/erikh22l18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Mejores prácticas de **DevOps** (GitOps, infra como código, observabilidad).
+- **IA/ML** aplicado a asistentes y automatización.
+- Arquitecturas **microservicios** ligeras y API-first.
+
+> 🧰 También suelo gestionar tareas y mejoras usando **GitHub Projects** (tableros Kanban) para mantener el foco en lo importante.
+
+---
+
+## 📬 Conectemos
+
+- ✉️ Email: `erikh22l18@e22l18.onmicrosoft.com`
+- 🐦 Twitter: [@erikh22l18](https://twitter.com/erikh22l18)
+- 👔 LinkedIn: [Erik Fisher](https://www.linkedin.com/in/erik-fisher-cueva-huari/)
+
+---
+
+> 💡 Consejo: Si quieres que resalte un proyecto específico en este perfil, solo dime cuál y lo agregamos con una descripción enfocada en el problema que resuelve y la tecnología usada.
